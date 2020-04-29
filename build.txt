@@ -1,0 +1,3 @@
+displayName = Team Maintainer
+author = Mikhail Sorokin
+version = 0.1
